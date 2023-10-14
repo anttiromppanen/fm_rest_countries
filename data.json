@@ -1,0 +1,4473 @@
+{
+  "countries": [
+    {
+      "name": {
+        "common": "French Polynesia",
+        "official": "French Polynesia",
+        "nativeName": {
+          "fra": {
+            "official": "Polynésie française",
+            "common": "Polynésie française"
+          }
+        }
+      },
+      "tld": [
+        ".pf"
+      ],
+      "cca2": "PF",
+      "ccn3": "258",
+      "cca3": "PYF",
+      "independent": false,
+      "status": "officially-assigned",
+      "unMember": false,
+      "currencies": {
+        "XPF": {
+          "name": "CFP franc",
+          "symbol": "₣"
+        }
+      },
+      "idd": {
+        "root": "+6",
+        "suffixes": [
+          "89"
+        ]
+      },
+      "capital": [
+        "Papeetē"
+      ],
+      "altSpellings": [
+        "PF",
+        "Polynésie française",
+        "French Polynesia",
+        "Pōrīnetia Farāni"
+      ],
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "languages": {
+        "fra": "French"
+      },
+      "translations": {
+        "ara": {
+          "official": "بولينزيا الفرنسية",
+          "common": "بولينزيا الفرنسية"
+        },
+        "bre": {
+          "official": "Polinezia C'hall",
+          "common": "Polinezia C'hall"
+        },
+        "ces": {
+          "official": "Francouzská Polynésie",
+          "common": "Francouzská Polynésie"
+        },
+        "cym": {
+          "official": "French Polynesia",
+          "common": "French Polynesia"
+        },
+        "deu": {
+          "official": "Französisch-Polynesien",
+          "common": "Französisch-Polynesien"
+        },
+        "est": {
+          "official": "Prantsuse Polüneesia",
+          "common": "Prantsuse Polüneesia"
+        },
+        "fin": {
+          "official": "Ranskan Polynesia",
+          "common": "Ranskan Polynesia"
+        },
+        "fra": {
+          "official": "Polynésie française",
+          "common": "Polynésie française"
+        },
+        "hrv": {
+          "official": "Francuska Polinezija",
+          "common": "Francuska Polinezija"
+        },
+        "hun": {
+          "official": "Francia Polinézia",
+          "common": "Francia Polinézia"
+        },
+        "ita": {
+          "official": "Polinesia Francese",
+          "common": "Polinesia Francese"
+        },
+        "jpn": {
+          "official": "フランス領ポリネシア",
+          "common": "フランス領ポリネシア"
+        },
+        "kor": {
+          "official": "프랑스령 폴리네시아",
+          "common": "프랑스령 폴리네시아"
+        },
+        "nld": {
+          "official": "Frans-Polynesië",
+          "common": "Frans-Polynesië"
+        },
+        "per": {
+          "official": "پُلی‌نِزی فرانسه",
+          "common": "پُلی‌نِزی فرانسه"
+        },
+        "pol": {
+          "official": "Polinezja Francuska",
+          "common": "Polinezja Francuska"
+        },
+        "por": {
+          "official": "Polinésia Francesa",
+          "common": "Polinésia Francesa"
+        },
+        "rus": {
+          "official": "Французская Полинезия",
+          "common": "Французская Полинезия"
+        },
+        "slk": {
+          "official": "Francúzska Polynézia",
+          "common": "Francúzska Polynézia"
+        },
+        "spa": {
+          "official": "Polinesia francés",
+          "common": "Polinesia Francesa"
+        },
+        "srp": {
+          "official": "Француска Полинезија",
+          "common": "Француска Полинезија"
+        },
+        "swe": {
+          "official": "Franska Polynesien",
+          "common": "Franska Polynesien"
+        },
+        "tur": {
+          "official": "Fransız Polinezyası",
+          "common": "Fransız Polinezyası"
+        },
+        "urd": {
+          "official": "فرانسیسی پولینیشیا",
+          "common": "فرانسیسی پولینیشیا"
+        },
+        "zho": {
+          "official": "法属波利尼西亚",
+          "common": "法属波利尼西亚"
+        }
+      },
+      "latlng": [
+        17.6797,
+        149.4068
+      ],
+      "landlocked": false,
+      "area": 4167,
+      "demonyms": {
+        "eng": {
+          "f": "French Polynesian",
+          "m": "French Polynesian"
+        },
+        "fra": {
+          "f": "Polynésienne",
+          "m": "Polynésien"
+        }
+      },
+      "flag": "🇵🇫",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/xgg6BQTRyeQg4e1m6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/3412620"
+      },
+      "population": 280904,
+      "car": {
+        "signs": [
+          "F"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC-10:00",
+        "UTC-09:30",
+        "UTC-09:00"
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/pf.png",
+        "svg": "https://flagcdn.com/pf.svg"
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/pf.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/pf.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          -17.53,
+          -149.56
+        ]
+      },
+      "postalCode": {
+        "format": "#####",
+        "regex": "^((97|98)7\\d{2})$"
+      }
+    },
+    {
+      "name": {
+        "common": "Saint Martin",
+        "official": "Saint Martin",
+        "nativeName": {
+          "fra": {
+            "official": "Saint-Martin",
+            "common": "Saint-Martin"
+          }
+        }
+      },
+      "tld": [
+        ".fr",
+        ".gp"
+      ],
+      "cca2": "MF",
+      "ccn3": "663",
+      "cca3": "MAF",
+      "independent": false,
+      "status": "officially-assigned",
+      "unMember": false,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "idd": {
+        "root": "+5",
+        "suffixes": [
+          "90"
+        ]
+      },
+      "capital": [
+        "Marigot"
+      ],
+      "altSpellings": [
+        "MF",
+        "Collectivity of Saint Martin",
+        "Collectivité de Saint-Martin",
+        "Saint Martin (French part)"
+      ],
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "languages": {
+        "fra": "French"
+      },
+      "translations": {
+        "ara": {
+          "official": "سانت مارتن",
+          "common": "سانت مارتن"
+        },
+        "bre": {
+          "official": "Saint-Martin",
+          "common": "Saint-Martin"
+        },
+        "ces": {
+          "official": "Svatý Martin",
+          "common": "Svatý Martin (Francie)"
+        },
+        "cym": {
+          "official": "Saint Martin",
+          "common": "Saint Martin"
+        },
+        "deu": {
+          "official": "Saint-Martin",
+          "common": "Saint-Martin"
+        },
+        "est": {
+          "official": "Saint-Martini ühendus",
+          "common": "Saint-Martin"
+        },
+        "fin": {
+          "official": "Saint-Martin",
+          "common": "Saint-Martin"
+        },
+        "fra": {
+          "official": "Saint-Martin",
+          "common": "Saint-Martin"
+        },
+        "hrv": {
+          "official": "Saint Martin",
+          "common": "Sveti Martin"
+        },
+        "hun": {
+          "official": "Saint-Martin Közösség",
+          "common": "Saint-Martin"
+        },
+        "ita": {
+          "official": "saint Martin",
+          "common": "Saint Martin"
+        },
+        "jpn": {
+          "official": "サンマルタン島",
+          "common": "サン・マルタン（フランス領）"
+        },
+        "kor": {
+          "official": "생마르탱",
+          "common": "생마르탱"
+        },
+        "nld": {
+          "official": "Saint Martin",
+          "common": "Saint-Martin"
+        },
+        "per": {
+          "official": "سن مارتن",
+          "common": "سن مارتن"
+        },
+        "pol": {
+          "official": "Wspólnota Saint-Martin",
+          "common": "Saint-Martin"
+        },
+        "por": {
+          "official": "saint Martin",
+          "common": "São Martinho"
+        },
+        "rus": {
+          "official": "Сен-Мартен",
+          "common": "Сен-Мартен"
+        },
+        "slk": {
+          "official": "Saint-Martin",
+          "common": "Saint-Martin"
+        },
+        "spa": {
+          "official": "Saint Martin",
+          "common": "Saint Martin"
+        },
+        "srp": {
+          "official": "Свети Мартин",
+          "common": "Свети Мартин"
+        },
+        "swe": {
+          "official": "Förvaltningsområdet Saint-Martin",
+          "common": "Saint-Martin"
+        },
+        "tur": {
+          "official": "Saint Martin",
+          "common": "Saint Martin"
+        },
+        "urd": {
+          "official": "سینٹ مارٹن",
+          "common": "سینٹ مارٹن"
+        },
+        "zho": {
+          "official": "圣马丁",
+          "common": "圣马丁"
+        }
+      },
+      "latlng": [
+        18.0708,
+        63.0501
+      ],
+      "landlocked": false,
+      "borders": [
+        "SXM"
+      ],
+      "area": 53,
+      "demonyms": {
+        "eng": {
+          "f": "Saint Martin Islander",
+          "m": "Saint Martin Islander"
+        },
+        "fra": {
+          "f": "Saint-Martinoise",
+          "m": "Saint-Martinois"
+        }
+      },
+      "flag": "🇲🇫",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/P9ho9QuJ9EAR28JEA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/63064"
+      },
+      "population": 38659,
+      "car": {
+        "signs": [
+          "F"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC-04:00"
+      ],
+      "continents": [
+        "North America"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/mf.png",
+        "svg": "https://flagcdn.com/mf.svg"
+      },
+      "coatOfArms": {},
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          18.07,
+          -63.08
+        ]
+      },
+      "postalCode": {
+        "format": "### ###"
+      }
+    },
+    {
+      "name": {
+        "common": "Venezuela",
+        "official": "Bolivarian Republic of Venezuela",
+        "nativeName": {
+          "spa": {
+            "official": "República Bolivariana de Venezuela",
+            "common": "Venezuela"
+          }
+        }
+      },
+      "tld": [
+        ".ve"
+      ],
+      "cca2": "VE",
+      "ccn3": "862",
+      "cca3": "VEN",
+      "cioc": "VEN",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "VES": {
+          "name": "Venezuelan bolívar soberano",
+          "symbol": "Bs.S."
+        }
+      },
+      "idd": {
+        "root": "+5",
+        "suffixes": [
+          "8"
+        ]
+      },
+      "capital": [
+        "Caracas"
+      ],
+      "altSpellings": [
+        "VE",
+        "Bolivarian Republic of Venezuela",
+        "Venezuela, Bolivarian Republic of",
+        "República Bolivariana de Venezuela"
+      ],
+      "region": "Americas",
+      "subregion": "South America",
+      "languages": {
+        "spa": "Spanish"
+      },
+      "translations": {
+        "ara": {
+          "official": "جمهورية فنزويلا البوليفارية",
+          "common": "فنزويلا"
+        },
+        "bre": {
+          "official": "Republik Volivarian Venezuela",
+          "common": "Venezuela"
+        },
+        "ces": {
+          "official": "Bolívarská republika Venezuela",
+          "common": "Venezuela"
+        },
+        "cym": {
+          "official": "Bolivarian Republic of Venezuela",
+          "common": "Venezuela"
+        },
+        "deu": {
+          "official": "Bolivarische Republik Venezuela",
+          "common": "Venezuela"
+        },
+        "est": {
+          "official": "Venezuela Bolívari Vabariik",
+          "common": "Venezuela"
+        },
+        "fin": {
+          "official": "Venezuelan bolivariaainen tasavalta",
+          "common": "Venezuela"
+        },
+        "fra": {
+          "official": "République bolivarienne du Venezuela",
+          "common": "Venezuela"
+        },
+        "hrv": {
+          "official": "BOLIVARIJANSKA Republika Venezuela",
+          "common": "Venezuela"
+        },
+        "hun": {
+          "official": "Venezuelai Bolivári Köztársaság",
+          "common": "Venezuela"
+        },
+        "ita": {
+          "official": "Repubblica Bolivariana del Venezuela",
+          "common": "Venezuela"
+        },
+        "jpn": {
+          "official": "ベネズエラ·ボリバル共和国",
+          "common": "ベネズエラ・ボリバル共和国"
+        },
+        "kor": {
+          "official": "베네수엘라 볼리바르 공화국",
+          "common": "베네수엘라"
+        },
+        "nld": {
+          "official": "Bolivariaanse Republiek Venezuela",
+          "common": "Venezuela"
+        },
+        "per": {
+          "official": "جمهوری بولیواری ونزوئلا",
+          "common": "ونزوئلا"
+        },
+        "pol": {
+          "official": "Boliwariańska Republika Wenezueli",
+          "common": "Wenezuela"
+        },
+        "por": {
+          "official": "República Bolivariana da Venezuela",
+          "common": "Venezuela"
+        },
+        "rus": {
+          "official": "Боливарианская Республика Венесуэла",
+          "common": "Венесуэла"
+        },
+        "slk": {
+          "official": "Venezuelská bolívarovská republika",
+          "common": "Venezuela"
+        },
+        "spa": {
+          "official": "República Bolivariana de Venezuela",
+          "common": "Venezuela"
+        },
+        "srp": {
+          "official": "Боливарска Република Венецуела",
+          "common": "Венецуела"
+        },
+        "swe": {
+          "official": "Bolivarianska republiken Venezuela",
+          "common": "Venezuela"
+        },
+        "tur": {
+          "official": "Bolivarcı Venezuela Cumhuriyeti",
+          "common": "Venezuela"
+        },
+        "urd": {
+          "official": "جمہوریہ وینیزویلا",
+          "common": "وینیزویلا"
+        },
+        "zho": {
+          "official": "委内瑞拉玻利瓦尔共和国",
+          "common": "委内瑞拉"
+        }
+      },
+      "latlng": [
+        8,
+        -66
+      ],
+      "landlocked": false,
+      "borders": [
+        "BRA",
+        "COL",
+        "GUY"
+      ],
+      "area": 916445,
+      "demonyms": {
+        "eng": {
+          "f": "Venezuelan",
+          "m": "Venezuelan"
+        },
+        "fra": {
+          "f": "Vénézuélienne",
+          "m": "Vénézuélien"
+        }
+      },
+      "flag": "🇻🇪",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/272644"
+      },
+      "population": 28435943,
+      "gini": {
+        "2006": 44.8
+      },
+      "fifa": "VEN",
+      "car": {
+        "signs": [
+          "YV"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC-04:00"
+      ],
+      "continents": [
+        "South America"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/ve.png",
+        "svg": "https://flagcdn.com/ve.svg",
+        "alt": "The flag of Venezuela is composed of three equal horizontal bands of yellow, blue and red. At the center of the blue band are eight five-pointed white stars arranged in a horizontal arc."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ve.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ve.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          10.48,
+          -66.87
+        ]
+      },
+      "postalCode": {
+        "format": "####",
+        "regex": "^(\\d{4})$"
+      }
+    },
+    {
+      "name": {
+        "common": "Réunion",
+        "official": "Réunion Island",
+        "nativeName": {
+          "fra": {
+            "official": "Ile de la Réunion",
+            "common": "La Réunion"
+          }
+        }
+      },
+      "tld": [
+        ".re"
+      ],
+      "cca2": "RE",
+      "ccn3": "638",
+      "cca3": "REU",
+      "independent": false,
+      "status": "officially-assigned",
+      "unMember": false,
+      "currencies": {
+        "EUR": {
+          "name": "Euro",
+          "symbol": "€"
+        }
+      },
+      "idd": {
+        "root": "+2",
+        "suffixes": [
+          "62"
+        ]
+      },
+      "capital": [
+        "Saint-Denis"
+      ],
+      "altSpellings": [
+        "RE",
+        "Reunion"
+      ],
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "languages": {
+        "fra": "French"
+      },
+      "translations": {
+        "ara": {
+          "official": "جزيرة لا ريونيون",
+          "common": "لا ريونيون"
+        },
+        "bre": {
+          "official": "Enez ar Reünion",
+          "common": "Reünion"
+        },
+        "ces": {
+          "official": "Réunion",
+          "common": "Réunion"
+        },
+        "cym": {
+          "official": "Réunion Island",
+          "common": "Réunion"
+        },
+        "deu": {
+          "official": "Réunion",
+          "common": "Réunion"
+        },
+        "est": {
+          "official": "Réunioni departemang",
+          "common": "Réunion"
+        },
+        "fin": {
+          "official": "Réunion",
+          "common": "Réunion"
+        },
+        "fra": {
+          "official": "Ile de la Réunion",
+          "common": "Réunion"
+        },
+        "hrv": {
+          "official": "Réunion Island",
+          "common": "Réunion"
+        },
+        "hun": {
+          "official": "Réunion",
+          "common": "Réunion"
+        },
+        "ita": {
+          "official": "Réunion",
+          "common": "Riunione"
+        },
+        "jpn": {
+          "official": "レユニオン島",
+          "common": "レユニオン"
+        },
+        "kor": {
+          "official": "레위니옹",
+          "common": "레위니옹"
+        },
+        "nld": {
+          "official": "Réunion",
+          "common": "Réunion"
+        },
+        "per": {
+          "official": "رئونیون",
+          "common": "رئونیون"
+        },
+        "pol": {
+          "official": "Reunion",
+          "common": "Reunion"
+        },
+        "por": {
+          "official": "Ilha da Reunião",
+          "common": "Reunião"
+        },
+        "rus": {
+          "official": "Реюньон",
+          "common": "Реюньон"
+        },
+        "slk": {
+          "official": "Réunionský zámorský departmán",
+          "common": "Réunion"
+        },
+        "spa": {
+          "official": "Isla de la Reunión",
+          "common": "Reunión"
+        },
+        "srp": {
+          "official": "Реинион",
+          "common": "Реинион"
+        },
+        "swe": {
+          "official": "Réunion",
+          "common": "Réunion"
+        },
+        "tur": {
+          "official": "Réunion",
+          "common": "Réunion"
+        },
+        "urd": {
+          "official": "رے یونیوں جزیرہ",
+          "common": "رے یونیوں"
+        },
+        "zho": {
+          "official": "留尼旺岛",
+          "common": "留尼旺岛"
+        }
+      },
+      "latlng": [
+        -21.15,
+        55.5
+      ],
+      "landlocked": false,
+      "area": 2511,
+      "demonyms": {
+        "eng": {
+          "f": "Réunionese",
+          "m": "Réunionese"
+        },
+        "fra": {
+          "f": "Réunionnaise",
+          "m": "Réunionnais"
+        }
+      },
+      "flag": "🇷🇪",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/1785276"
+      },
+      "population": 840974,
+      "car": {
+        "signs": [
+          "F"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC+04:00"
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/re.png",
+        "svg": "https://flagcdn.com/re.svg"
+      },
+      "coatOfArms": {},
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          -20.88,
+          55.45
+        ]
+      },
+      "postalCode": {
+        "format": "#####",
+        "regex": "^((97|98)(4|7|8)\\d{2})$"
+      }
+    },
+    {
+      "name": {
+        "common": "El Salvador",
+        "official": "Republic of El Salvador",
+        "nativeName": {
+          "spa": {
+            "official": "República de El Salvador",
+            "common": "El Salvador"
+          }
+        }
+      },
+      "tld": [
+        ".sv"
+      ],
+      "cca2": "SV",
+      "ccn3": "222",
+      "cca3": "SLV",
+      "cioc": "ESA",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "USD": {
+          "name": "United States dollar",
+          "symbol": "$"
+        }
+      },
+      "idd": {
+        "root": "+5",
+        "suffixes": [
+          "03"
+        ]
+      },
+      "capital": [
+        "San Salvador"
+      ],
+      "altSpellings": [
+        "SV",
+        "Republic of El Salvador",
+        "República de El Salvador"
+      ],
+      "region": "Americas",
+      "subregion": "Central America",
+      "languages": {
+        "spa": "Spanish"
+      },
+      "translations": {
+        "ara": {
+          "official": "جمهورية السلفادور",
+          "common": "السلفادور"
+        },
+        "bre": {
+          "official": "Republik El Salvador",
+          "common": "El Salvador"
+        },
+        "ces": {
+          "official": "Salvadorská republika",
+          "common": "Salvador"
+        },
+        "cym": {
+          "official": "Gweriniaeth El Salfador",
+          "common": "El Salfador"
+        },
+        "deu": {
+          "official": "Republik El Salvador",
+          "common": "El Salvador"
+        },
+        "est": {
+          "official": "El Salvadori Vabariik",
+          "common": "El Salvador"
+        },
+        "fin": {
+          "official": "El Salvadorin tasavalta",
+          "common": "El Salvador"
+        },
+        "fra": {
+          "official": "République du Salvador",
+          "common": "Salvador"
+        },
+        "hrv": {
+          "official": "Republika El Salvador",
+          "common": "Salvador"
+        },
+        "hun": {
+          "official": "Salvadori Köztársaság",
+          "common": "Salvador"
+        },
+        "ita": {
+          "official": "Repubblica di El Salvador",
+          "common": "El Salvador"
+        },
+        "jpn": {
+          "official": "エルサルバドル共和国",
+          "common": "エルサルバドル"
+        },
+        "kor": {
+          "official": "엘살바도르 공화국",
+          "common": "엘살바도르"
+        },
+        "nld": {
+          "official": "Republiek El Salvador",
+          "common": "El Salvador"
+        },
+        "per": {
+          "official": "جمهوری السالوادور",
+          "common": "السالوادور"
+        },
+        "pol": {
+          "official": "Republika Salwadoru",
+          "common": "Salwador"
+        },
+        "por": {
+          "official": "República de El Salvador",
+          "common": "El Salvador"
+        },
+        "rus": {
+          "official": "Республика Эль-Сальвадор",
+          "common": "Сальвадор"
+        },
+        "slk": {
+          "official": "Salvádorská republika",
+          "common": "Salvádor"
+        },
+        "spa": {
+          "official": "República de El Salvador",
+          "common": "El Salvador"
+        },
+        "srp": {
+          "official": "Република Ел Салвадор",
+          "common": "Салвадор"
+        },
+        "swe": {
+          "official": "Republiken El Salvador",
+          "common": "El Salvador"
+        },
+        "tur": {
+          "official": "El Salvador Cumhuriyeti",
+          "common": "El Salvador"
+        },
+        "urd": {
+          "official": "جمہوریہ ایل سیلواڈور",
+          "common": "ایل سیلواڈور"
+        },
+        "zho": {
+          "official": "萨尔瓦多共和国",
+          "common": "萨尔瓦多"
+        }
+      },
+      "latlng": [
+        13.83333333,
+        -88.91666666
+      ],
+      "landlocked": false,
+      "borders": [
+        "GTM",
+        "HND"
+      ],
+      "area": 21041,
+      "demonyms": {
+        "eng": {
+          "f": "Salvadoran",
+          "m": "Salvadoran"
+        },
+        "fra": {
+          "f": "Salvadorienne",
+          "m": "Salvadorien"
+        }
+      },
+      "flag": "🇸🇻",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/1520612"
+      },
+      "population": 6486201,
+      "gini": {
+        "2019": 38.8
+      },
+      "fifa": "SLV",
+      "car": {
+        "signs": [
+          "ES"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC-06:00"
+      ],
+      "continents": [
+        "North America"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/sv.png",
+        "svg": "https://flagcdn.com/sv.svg",
+        "alt": "The flag of El Salvador is composed of three equal horizontal bands of cobalt blue, white and cobalt blue, with the national coat of arms centered in the white band."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/sv.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/sv.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          13.7,
+          -89.2
+        ]
+      },
+      "postalCode": {
+        "format": "CP ####",
+        "regex": "^(?:CP)*(\\d{4})$"
+      }
+    },
+    {
+      "name": {
+        "common": "Dominica",
+        "official": "Commonwealth of Dominica",
+        "nativeName": {
+          "eng": {
+            "official": "Commonwealth of Dominica",
+            "common": "Dominica"
+          }
+        }
+      },
+      "tld": [
+        ".dm"
+      ],
+      "cca2": "DM",
+      "ccn3": "212",
+      "cca3": "DMA",
+      "cioc": "DMA",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "XCD": {
+          "name": "Eastern Caribbean dollar",
+          "symbol": "$"
+        }
+      },
+      "idd": {
+        "root": "+1",
+        "suffixes": [
+          "767"
+        ]
+      },
+      "capital": [
+        "Roseau"
+      ],
+      "altSpellings": [
+        "DM",
+        "Dominique",
+        "Wai‘tu kubuli",
+        "Commonwealth of Dominica"
+      ],
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "languages": {
+        "eng": "English"
+      },
+      "translations": {
+        "ara": {
+          "official": "كومونولث دومينيكا",
+          "common": "دومينيكا"
+        },
+        "bre": {
+          "official": "Kenglad Dominika",
+          "common": "Dominika"
+        },
+        "ces": {
+          "official": "Dominikánské společenství",
+          "common": "Dominika"
+        },
+        "cym": {
+          "official": "Cymanwlad Dominica",
+          "common": "Dominica"
+        },
+        "deu": {
+          "official": "Commonwealth von Dominica",
+          "common": "Dominica"
+        },
+        "est": {
+          "official": "Dominica Ühendus",
+          "common": "Dominica"
+        },
+        "fin": {
+          "official": "Dominican liittovaltio",
+          "common": "Dominica"
+        },
+        "fra": {
+          "official": "Commonwealth de la Dominique",
+          "common": "Dominique"
+        },
+        "hrv": {
+          "official": "Zajednica Dominika",
+          "common": "Dominika"
+        },
+        "hun": {
+          "official": "Dominikai Közösség",
+          "common": "Dominikai Közösség"
+        },
+        "ita": {
+          "official": "Commonwealth di Dominica",
+          "common": "Dominica"
+        },
+        "jpn": {
+          "official": "ドミニカ国",
+          "common": "ドミニカ国"
+        },
+        "kor": {
+          "official": "도미니카 공화국",
+          "common": "도미니카 공화국"
+        },
+        "nld": {
+          "official": "Gemenebest Dominica",
+          "common": "Dominica"
+        },
+        "per": {
+          "official": "قلمرو همسود دومینیکا",
+          "common": "دومینیکا"
+        },
+        "pol": {
+          "official": "Wspólnota Dominiki",
+          "common": "Dominika"
+        },
+        "por": {
+          "official": "Comunidade da Dominica",
+          "common": "Dominica"
+        },
+        "rus": {
+          "official": "Содружество Доминики",
+          "common": "Доминика"
+        },
+        "slk": {
+          "official": "Dominické spoločenstvo",
+          "common": "Dominika"
+        },
+        "spa": {
+          "official": "Mancomunidad de Dominica",
+          "common": "Dominica"
+        },
+        "srp": {
+          "official": "Комонвелт Доминика",
+          "common": "Доминика"
+        },
+        "swe": {
+          "official": "Samväldet Dominica",
+          "common": "Dominica"
+        },
+        "tur": {
+          "official": "Dominika Topluluğu",
+          "common": "Dominika"
+        },
+        "urd": {
+          "official": "دولتِ مشترکہ ڈومینیکا",
+          "common": "ڈومینیکا"
+        },
+        "zho": {
+          "official": "多米尼加共和国",
+          "common": "多米尼加"
+        }
+      },
+      "latlng": [
+        15.41666666,
+        -61.33333333
+      ],
+      "landlocked": false,
+      "area": 751,
+      "demonyms": {
+        "eng": {
+          "f": "Dominican",
+          "m": "Dominican"
+        },
+        "fra": {
+          "f": "Dominiquaise",
+          "m": "Dominiquais"
+        }
+      },
+      "flag": "🇩🇲",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/307823"
+      },
+      "population": 71991,
+      "fifa": "DMA",
+      "car": {
+        "signs": [
+          "WD"
+        ],
+        "side": "left"
+      },
+      "timezones": [
+        "UTC-04:00"
+      ],
+      "continents": [
+        "North America"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/dm.png",
+        "svg": "https://flagcdn.com/dm.svg",
+        "alt": "The flag of Dominica has a green field with a large centered tricolor cross. The vertical and horizontal parts of the cross each comprise three bands of yellow, black and white. A red circle, bearing a hoist-side facing purple Sisserou parrot standing on a twig and encircled by ten five-pointed yellow-edged green stars, is superimposed at the center of the cross."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/dm.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/dm.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          15.3,
+          -61.4
+        ]
+      }
+    },
+    {
+      "name": {
+        "common": "Gibraltar",
+        "official": "Gibraltar",
+        "nativeName": {
+          "eng": {
+            "official": "Gibraltar",
+            "common": "Gibraltar"
+          }
+        }
+      },
+      "tld": [
+        ".gi"
+      ],
+      "cca2": "GI",
+      "ccn3": "292",
+      "cca3": "GIB",
+      "independent": false,
+      "status": "officially-assigned",
+      "unMember": false,
+      "currencies": {
+        "GIP": {
+          "name": "Gibraltar pound",
+          "symbol": "£"
+        }
+      },
+      "idd": {
+        "root": "+3",
+        "suffixes": [
+          "50"
+        ]
+      },
+      "capital": [
+        "Gibraltar"
+      ],
+      "altSpellings": [
+        "GI"
+      ],
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "languages": {
+        "eng": "English"
+      },
+      "translations": {
+        "ara": {
+          "official": "جبل طارق",
+          "common": "جبل طارق"
+        },
+        "bre": {
+          "official": "Jibraltar",
+          "common": "Jibraltar"
+        },
+        "ces": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        },
+        "cym": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        },
+        "deu": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        },
+        "est": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        },
+        "fin": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        },
+        "fra": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        },
+        "hrv": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        },
+        "hun": {
+          "official": "Gibraltár",
+          "common": "Gibraltár"
+        },
+        "ita": {
+          "official": "Gibilterra",
+          "common": "Gibilterra"
+        },
+        "jpn": {
+          "official": "ジブラルタル",
+          "common": "ジブラルタル"
+        },
+        "kor": {
+          "official": "지브롤터",
+          "common": "지브롤터"
+        },
+        "nld": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        },
+        "per": {
+          "official": "جبل طارق",
+          "common": "جبل طارق"
+        },
+        "pol": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        },
+        "por": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        },
+        "rus": {
+          "official": "Гибралтар",
+          "common": "Гибралтар"
+        },
+        "slk": {
+          "official": "Gibraltár",
+          "common": "Gibraltár"
+        },
+        "spa": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        },
+        "srp": {
+          "official": "Гибралтар",
+          "common": "Гибралтар"
+        },
+        "swe": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        },
+        "tur": {
+          "official": "Cebelitarık",
+          "common": "Cebelitarık"
+        },
+        "urd": {
+          "official": "جبل الطارق",
+          "common": "جبل الطارق"
+        },
+        "zho": {
+          "official": "直布罗陀",
+          "common": "直布罗陀"
+        }
+      },
+      "latlng": [
+        36.13333333,
+        -5.35
+      ],
+      "landlocked": false,
+      "borders": [
+        "ESP"
+      ],
+      "area": 6,
+      "demonyms": {
+        "eng": {
+          "f": "Gibraltar",
+          "m": "Gibraltar"
+        },
+        "fra": {
+          "f": "Gibraltarienne",
+          "m": "Gibraltarien"
+        }
+      },
+      "flag": "🇬🇮",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/1278736"
+      },
+      "population": 33691,
+      "fifa": "GIB",
+      "car": {
+        "signs": [
+          "GBZ"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/gi.png",
+        "svg": "https://flagcdn.com/gi.svg"
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/gi.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/gi.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          36.13,
+          -5.35
+        ]
+      }
+    },
+    {
+      "name": {
+        "common": "Kenya",
+        "official": "Republic of Kenya",
+        "nativeName": {
+          "eng": {
+            "official": "Republic of Kenya",
+            "common": "Kenya"
+          },
+          "swa": {
+            "official": "Republic of Kenya",
+            "common": "Kenya"
+          }
+        }
+      },
+      "tld": [
+        ".ke"
+      ],
+      "cca2": "KE",
+      "ccn3": "404",
+      "cca3": "KEN",
+      "cioc": "KEN",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "KES": {
+          "name": "Kenyan shilling",
+          "symbol": "Sh"
+        }
+      },
+      "idd": {
+        "root": "+2",
+        "suffixes": [
+          "54"
+        ]
+      },
+      "capital": [
+        "Nairobi"
+      ],
+      "altSpellings": [
+        "KE",
+        "Republic of Kenya",
+        "Jamhuri ya Kenya"
+      ],
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "languages": {
+        "eng": "English",
+        "swa": "Swahili"
+      },
+      "translations": {
+        "ara": {
+          "official": "جمهورية كينيا",
+          "common": "كينيا"
+        },
+        "bre": {
+          "official": "Republik Kenya",
+          "common": "Kenya"
+        },
+        "ces": {
+          "official": "Keňská republika",
+          "common": "Keňa"
+        },
+        "cym": {
+          "official": "Republic of Kenya",
+          "common": "Kenya"
+        },
+        "deu": {
+          "official": "Republik Kenia",
+          "common": "Kenia"
+        },
+        "est": {
+          "official": "Keenia Vabariik",
+          "common": "Keenia"
+        },
+        "fin": {
+          "official": "Kenian tasavalta",
+          "common": "Kenia"
+        },
+        "fra": {
+          "official": "République du Kenya",
+          "common": "Kenya"
+        },
+        "hrv": {
+          "official": "Republika Kenija",
+          "common": "Kenija"
+        },
+        "hun": {
+          "official": "Kenyai Köztársaság",
+          "common": "Kenya"
+        },
+        "ita": {
+          "official": "Repubblica del Kenya",
+          "common": "Kenya"
+        },
+        "jpn": {
+          "official": "ケニア共和国",
+          "common": "ケニア"
+        },
+        "kor": {
+          "official": "케냐 공화국",
+          "common": "케냐"
+        },
+        "nld": {
+          "official": "Republiek Kenia",
+          "common": "Kenia"
+        },
+        "per": {
+          "official": "جمهوری کنیا",
+          "common": "کنیا"
+        },
+        "pol": {
+          "official": "Republika Kenii",
+          "common": "Kenia"
+        },
+        "por": {
+          "official": "República do Quénia",
+          "common": "Quénia"
+        },
+        "rus": {
+          "official": "Республика Кения",
+          "common": "Кения"
+        },
+        "slk": {
+          "official": "Kenská republika",
+          "common": "Keňa"
+        },
+        "spa": {
+          "official": "República de Kenya",
+          "common": "Kenia"
+        },
+        "srp": {
+          "official": "Република Кенија",
+          "common": "Кенија"
+        },
+        "swe": {
+          "official": "Republiken Kenya",
+          "common": "Kenya"
+        },
+        "tur": {
+          "official": "Kenya Cumhuriyeti",
+          "common": "Kenya"
+        },
+        "urd": {
+          "official": "جمہوریہ کینیا",
+          "common": "کینیا"
+        },
+        "zho": {
+          "official": "肯尼亚共和国",
+          "common": "肯尼亚"
+        }
+      },
+      "latlng": [
+        1,
+        38
+      ],
+      "landlocked": false,
+      "borders": [
+        "ETH",
+        "SOM",
+        "SSD",
+        "TZA",
+        "UGA"
+      ],
+      "area": 580367,
+      "demonyms": {
+        "eng": {
+          "f": "Kenyan",
+          "m": "Kenyan"
+        },
+        "fra": {
+          "f": "Kényane",
+          "m": "Kényan"
+        }
+      },
+      "flag": "🇰🇪",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/192798"
+      },
+      "population": 53771300,
+      "gini": {
+        "2015": 40.8
+      },
+      "fifa": "KEN",
+      "car": {
+        "signs": [
+          "EAK"
+        ],
+        "side": "left"
+      },
+      "timezones": [
+        "UTC+03:00"
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/ke.png",
+        "svg": "https://flagcdn.com/ke.svg",
+        "alt": "The flag of Kenya is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. An emblem comprising a red, black and white Maasai shield covering two crossed white spears is superimposed at the center of the field."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ke.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ke.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          -1.28,
+          36.82
+        ]
+      },
+      "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+      }
+    },
+    {
+      "name": {
+        "common": "Brazil",
+        "official": "Federative Republic of Brazil",
+        "nativeName": {
+          "por": {
+            "official": "República Federativa do Brasil",
+            "common": "Brasil"
+          }
+        }
+      },
+      "tld": [
+        ".br"
+      ],
+      "cca2": "BR",
+      "ccn3": "076",
+      "cca3": "BRA",
+      "cioc": "BRA",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "BRL": {
+          "name": "Brazilian real",
+          "symbol": "R$"
+        }
+      },
+      "idd": {
+        "root": "+5",
+        "suffixes": [
+          "5"
+        ]
+      },
+      "capital": [
+        "Brasília"
+      ],
+      "altSpellings": [
+        "BR",
+        "Brasil",
+        "Federative Republic of Brazil",
+        "República Federativa do Brasil"
+      ],
+      "region": "Americas",
+      "subregion": "South America",
+      "languages": {
+        "por": "Portuguese"
+      },
+      "translations": {
+        "ara": {
+          "official": "جمهورية البرازيل الاتحادية",
+          "common": "البرازيل"
+        },
+        "bre": {
+          "official": "Republik Kevreel Brazil",
+          "common": "Brazil"
+        },
+        "ces": {
+          "official": "Brazilská federativní republika",
+          "common": "Brazílie"
+        },
+        "cym": {
+          "official": "Gweriniaeth Ffederal Brasil",
+          "common": "Brasil"
+        },
+        "deu": {
+          "official": "Föderative Republik Brasilien",
+          "common": "Brasilien"
+        },
+        "est": {
+          "official": "Brasiilia Liitvabariik",
+          "common": "Brasiilia"
+        },
+        "fin": {
+          "official": "Brasilian liittotasavalta",
+          "common": "Brasilia"
+        },
+        "fra": {
+          "official": "République fédérative du Brésil",
+          "common": "Brésil"
+        },
+        "hrv": {
+          "official": "Savezne Republike Brazil",
+          "common": "Brazil"
+        },
+        "hun": {
+          "official": "Brazil Szövetségi Köztársaság",
+          "common": "Brazília"
+        },
+        "ita": {
+          "official": "Repubblica federativa del Brasile",
+          "common": "Brasile"
+        },
+        "jpn": {
+          "official": "ブラジル連邦共和国",
+          "common": "ブラジル"
+        },
+        "kor": {
+          "official": "브라질 연방 공화국",
+          "common": "브라질"
+        },
+        "nld": {
+          "official": "Federale Republiek Brazilië",
+          "common": "Brazilië"
+        },
+        "per": {
+          "official": "جمهوری فدراتیو برزیل",
+          "common": "برزیل"
+        },
+        "pol": {
+          "official": "Federacyjna Republika Brazylii",
+          "common": "Brazylia"
+        },
+        "por": {
+          "official": "República Federativa do Brasil",
+          "common": "Brasil"
+        },
+        "rus": {
+          "official": "Федеративная Республика Бразилия",
+          "common": "Бразилия"
+        },
+        "slk": {
+          "official": "Brazílska federatívna republika",
+          "common": "Brazília"
+        },
+        "spa": {
+          "official": "República Federativa del Brasil",
+          "common": "Brasil"
+        },
+        "srp": {
+          "official": "Савезна Република Бразил",
+          "common": "Бразил"
+        },
+        "swe": {
+          "official": "Förbundsrepubliken Brasilien",
+          "common": "Brasilien"
+        },
+        "tur": {
+          "official": "Brezilya Federal Cumhuriyeti",
+          "common": "Brezilya"
+        },
+        "urd": {
+          "official": "وفاقی جمہوریہ برازیل",
+          "common": "برازیل"
+        },
+        "zho": {
+          "official": "巴西联邦共和国",
+          "common": "巴西"
+        }
+      },
+      "latlng": [
+        -10,
+        -55
+      ],
+      "landlocked": false,
+      "borders": [
+        "ARG",
+        "BOL",
+        "COL",
+        "GUF",
+        "GUY",
+        "PRY",
+        "PER",
+        "SUR",
+        "URY",
+        "VEN"
+      ],
+      "area": 8515767,
+      "demonyms": {
+        "eng": {
+          "f": "Brazilian",
+          "m": "Brazilian"
+        },
+        "fra": {
+          "f": "Brésilienne",
+          "m": "Brésilien"
+        }
+      },
+      "flag": "🇧🇷",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/59470"
+      },
+      "population": 212559409,
+      "gini": {
+        "2019": 53.4
+      },
+      "fifa": "BRA",
+      "car": {
+        "signs": [
+          "BR"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-02:00"
+      ],
+      "continents": [
+        "South America"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/br.png",
+        "svg": "https://flagcdn.com/br.svg",
+        "alt": "The flag of Brazil has a green field with a large yellow rhombus in the center. Within the rhombus is a dark blue globe with twenty-seven small five-pointed white stars depicting a starry sky and a thin white convex horizontal band inscribed with the national motto 'Ordem e Progresso' across its center."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/br.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/br.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          -15.79,
+          -47.88
+        ]
+      },
+      "postalCode": {
+        "format": "#####-###",
+        "regex": "^(\\d{8})$"
+      }
+    },
+    {
+      "name": {
+        "common": "Maldives",
+        "official": "Republic of the Maldives",
+        "nativeName": {
+          "div": {
+            "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+            "common": "ދިވެހިރާއްޖޭގެ"
+          }
+        }
+      },
+      "tld": [
+        ".mv"
+      ],
+      "cca2": "MV",
+      "ccn3": "462",
+      "cca3": "MDV",
+      "cioc": "MDV",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "MVR": {
+          "name": "Maldivian rufiyaa",
+          "symbol": ".ރ"
+        }
+      },
+      "idd": {
+        "root": "+9",
+        "suffixes": [
+          "60"
+        ]
+      },
+      "capital": [
+        "Malé"
+      ],
+      "altSpellings": [
+        "MV",
+        "Maldive Islands",
+        "Republic of the Maldives",
+        "Dhivehi Raajjeyge Jumhooriyya"
+      ],
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "languages": {
+        "div": "Maldivian"
+      },
+      "translations": {
+        "ara": {
+          "official": "جمهورية المالديف",
+          "common": "المالديف"
+        },
+        "bre": {
+          "official": "Republik Maldivez",
+          "common": "Maldivez"
+        },
+        "ces": {
+          "official": "Maledivská republika",
+          "common": "Maledivy"
+        },
+        "cym": {
+          "official": "Republic of the Maldives",
+          "common": "Maldives"
+        },
+        "deu": {
+          "official": "Republik Malediven",
+          "common": "Malediven"
+        },
+        "est": {
+          "official": "Maldiivi Vabariik",
+          "common": "Maldiivid"
+        },
+        "fin": {
+          "official": "Malediivien tasavalta",
+          "common": "Malediivit"
+        },
+        "fra": {
+          "official": "République des Maldives",
+          "common": "Maldives"
+        },
+        "hrv": {
+          "official": "Republika Maldivi",
+          "common": "Maldivi"
+        },
+        "hun": {
+          "official": "Maldív-szigetek",
+          "common": "Maldív-szigetek"
+        },
+        "ita": {
+          "official": "Repubblica delle Maldive",
+          "common": "Maldive"
+        },
+        "jpn": {
+          "official": "モルディブ共和国",
+          "common": "モルディブ"
+        },
+        "kor": {
+          "official": "몰디브 공화국",
+          "common": "몰디브"
+        },
+        "nld": {
+          "official": "Republiek van de Malediven",
+          "common": "Maldiven"
+        },
+        "per": {
+          "official": "جمهوری مالدیو",
+          "common": "مالدیو"
+        },
+        "pol": {
+          "official": "Republika Malediwów",
+          "common": "Malediwy"
+        },
+        "por": {
+          "official": "República das Maldivas",
+          "common": "Maldivas"
+        },
+        "rus": {
+          "official": "Республика Мальдивы",
+          "common": "Мальдивы"
+        },
+        "slk": {
+          "official": "Maldivská republika",
+          "common": "Maldivy"
+        },
+        "spa": {
+          "official": "República de las Maldivas",
+          "common": "Maldivas"
+        },
+        "srp": {
+          "official": "Малдивска Република",
+          "common": "Малдиви"
+        },
+        "swe": {
+          "official": "Republiken Maldiverna",
+          "common": "Maldiverna"
+        },
+        "tur": {
+          "official": "Maldivler Cumhuriyeti",
+          "common": "Maldivler"
+        },
+        "urd": {
+          "official": "جمہوریہ مالدیپ",
+          "common": "مالدیپ"
+        },
+        "zho": {
+          "official": "马尔代夫共和国",
+          "common": "马尔代夫"
+        }
+      },
+      "latlng": [
+        3.25,
+        73
+      ],
+      "landlocked": false,
+      "area": 300,
+      "demonyms": {
+        "eng": {
+          "f": "Maldivan",
+          "m": "Maldivan"
+        },
+        "fra": {
+          "f": "Maldivienne",
+          "m": "Maldivien"
+        }
+      },
+      "flag": "🇲🇻",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/536773"
+      },
+      "population": 540542,
+      "gini": {
+        "2016": 31.3
+      },
+      "fifa": "MDV",
+      "car": {
+        "signs": [
+          "MV"
+        ],
+        "side": "left"
+      },
+      "timezones": [
+        "UTC+05:00"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/mv.png",
+        "svg": "https://flagcdn.com/mv.svg",
+        "alt": "The flag of Maldives has a red field, at the center of which is a large green rectangle bearing a fly-side facing white crescent."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/mv.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/mv.svg"
+      },
+      "startOfWeek": "sunday",
+      "capitalInfo": {
+        "latlng": [
+          4.17,
+          73.51
+        ]
+      },
+      "postalCode": {
+        "format": "#####",
+        "regex": "^(\\d{5})$"
+      }
+    },
+    {
+      "name": {
+        "common": "United States",
+        "official": "United States of America",
+        "nativeName": {
+          "eng": {
+            "official": "United States of America",
+            "common": "United States"
+          }
+        }
+      },
+      "tld": [
+        ".us"
+      ],
+      "cca2": "US",
+      "ccn3": "840",
+      "cca3": "USA",
+      "cioc": "USA",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "USD": {
+          "name": "United States dollar",
+          "symbol": "$"
+        }
+      },
+      "idd": {
+        "root": "+1",
+        "suffixes": [
+          "201",
+          "202",
+          "203",
+          "205",
+          "206",
+          "207",
+          "208",
+          "209",
+          "210",
+          "212",
+          "213",
+          "214",
+          "215",
+          "216",
+          "217",
+          "218",
+          "219",
+          "220",
+          "224",
+          "225",
+          "227",
+          "228",
+          "229",
+          "231",
+          "234",
+          "239",
+          "240",
+          "248",
+          "251",
+          "252",
+          "253",
+          "254",
+          "256",
+          "260",
+          "262",
+          "267",
+          "269",
+          "270",
+          "272",
+          "274",
+          "276",
+          "281",
+          "283",
+          "301",
+          "302",
+          "303",
+          "304",
+          "305",
+          "307",
+          "308",
+          "309",
+          "310",
+          "312",
+          "313",
+          "314",
+          "315",
+          "316",
+          "317",
+          "318",
+          "319",
+          "320",
+          "321",
+          "323",
+          "325",
+          "327",
+          "330",
+          "331",
+          "334",
+          "336",
+          "337",
+          "339",
+          "346",
+          "347",
+          "351",
+          "352",
+          "360",
+          "361",
+          "364",
+          "380",
+          "385",
+          "386",
+          "401",
+          "402",
+          "404",
+          "405",
+          "406",
+          "407",
+          "408",
+          "409",
+          "410",
+          "412",
+          "413",
+          "414",
+          "415",
+          "417",
+          "419",
+          "423",
+          "424",
+          "425",
+          "430",
+          "432",
+          "434",
+          "435",
+          "440",
+          "442",
+          "443",
+          "447",
+          "458",
+          "463",
+          "464",
+          "469",
+          "470",
+          "475",
+          "478",
+          "479",
+          "480",
+          "484",
+          "501",
+          "502",
+          "503",
+          "504",
+          "505",
+          "507",
+          "508",
+          "509",
+          "510",
+          "512",
+          "513",
+          "515",
+          "516",
+          "517",
+          "518",
+          "520",
+          "530",
+          "531",
+          "534",
+          "539",
+          "540",
+          "541",
+          "551",
+          "559",
+          "561",
+          "562",
+          "563",
+          "564",
+          "567",
+          "570",
+          "571",
+          "573",
+          "574",
+          "575",
+          "580",
+          "585",
+          "586",
+          "601",
+          "602",
+          "603",
+          "605",
+          "606",
+          "607",
+          "608",
+          "609",
+          "610",
+          "612",
+          "614",
+          "615",
+          "616",
+          "617",
+          "618",
+          "619",
+          "620",
+          "623",
+          "626",
+          "628",
+          "629",
+          "630",
+          "631",
+          "636",
+          "641",
+          "646",
+          "650",
+          "651",
+          "657",
+          "660",
+          "661",
+          "662",
+          "667",
+          "669",
+          "678",
+          "681",
+          "682",
+          "701",
+          "702",
+          "703",
+          "704",
+          "706",
+          "707",
+          "708",
+          "712",
+          "713",
+          "714",
+          "715",
+          "716",
+          "717",
+          "718",
+          "719",
+          "720",
+          "724",
+          "725",
+          "727",
+          "730",
+          "731",
+          "732",
+          "734",
+          "737",
+          "740",
+          "743",
+          "747",
+          "754",
+          "757",
+          "760",
+          "762",
+          "763",
+          "765",
+          "769",
+          "770",
+          "772",
+          "773",
+          "774",
+          "775",
+          "779",
+          "781",
+          "785",
+          "786",
+          "801",
+          "802",
+          "803",
+          "804",
+          "805",
+          "806",
+          "808",
+          "810",
+          "812",
+          "813",
+          "814",
+          "815",
+          "816",
+          "817",
+          "818",
+          "828",
+          "830",
+          "831",
+          "832",
+          "843",
+          "845",
+          "847",
+          "848",
+          "850",
+          "854",
+          "856",
+          "857",
+          "858",
+          "859",
+          "860",
+          "862",
+          "863",
+          "864",
+          "865",
+          "870",
+          "872",
+          "878",
+          "901",
+          "903",
+          "904",
+          "906",
+          "907",
+          "908",
+          "909",
+          "910",
+          "912",
+          "913",
+          "914",
+          "915",
+          "916",
+          "917",
+          "918",
+          "919",
+          "920",
+          "925",
+          "928",
+          "929",
+          "930",
+          "931",
+          "934",
+          "936",
+          "937",
+          "938",
+          "940",
+          "941",
+          "947",
+          "949",
+          "951",
+          "952",
+          "954",
+          "956",
+          "959",
+          "970",
+          "971",
+          "972",
+          "973",
+          "975",
+          "978",
+          "979",
+          "980",
+          "984",
+          "985",
+          "989"
+        ]
+      },
+      "capital": [
+        "Washington, D.C."
+      ],
+      "altSpellings": [
+        "US",
+        "USA",
+        "United States of America"
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "languages": {
+        "eng": "English"
+      },
+      "translations": {
+        "ara": {
+          "official": "الولايات المتحدة الامريكية",
+          "common": "الولايات المتحدة"
+        },
+        "bre": {
+          "official": "Stadoù-Unanet Amerika",
+          "common": "Stadoù-Unanet"
+        },
+        "ces": {
+          "official": "Spojené státy americké",
+          "common": "Spojené státy"
+        },
+        "cym": {
+          "official": "United States of America",
+          "common": "United States"
+        },
+        "deu": {
+          "official": "Vereinigte Staaten von Amerika",
+          "common": "Vereinigte Staaten"
+        },
+        "est": {
+          "official": "Ameerika Ühendriigid",
+          "common": "Ameerika Ühendriigid"
+        },
+        "fin": {
+          "official": "Amerikan yhdysvallat",
+          "common": "Yhdysvallat"
+        },
+        "fra": {
+          "official": "Les états-unis d'Amérique",
+          "common": "États-Unis"
+        },
+        "hrv": {
+          "official": "Sjedinjene Države Amerike",
+          "common": "Sjedinjene Američke Države"
+        },
+        "hun": {
+          "official": "Amerikai Egyesült Államok",
+          "common": "Amerikai Egyesült Államok"
+        },
+        "ita": {
+          "official": "Stati Uniti d'America",
+          "common": "Stati Uniti d'America"
+        },
+        "jpn": {
+          "official": "アメリカ合衆国",
+          "common": "アメリカ合衆国"
+        },
+        "kor": {
+          "official": "아메리카 합중국",
+          "common": "미국"
+        },
+        "nld": {
+          "official": "Verenigde Staten van Amerika",
+          "common": "Verenigde Staten"
+        },
+        "per": {
+          "official": "ایالات متحده آمریکا",
+          "common": "ایالات متحده آمریکا"
+        },
+        "pol": {
+          "official": "Stany Zjednoczone Ameryki",
+          "common": "Stany Zjednoczone"
+        },
+        "por": {
+          "official": "Estados Unidos da América",
+          "common": "Estados Unidos"
+        },
+        "rus": {
+          "official": "Соединенные Штаты Америки",
+          "common": "Соединённые Штаты Америки"
+        },
+        "slk": {
+          "official": "Spojené štáty Americké",
+          "common": "Spojené štáty americké"
+        },
+        "spa": {
+          "official": "Estados Unidos de América",
+          "common": "Estados Unidos"
+        },
+        "srp": {
+          "official": "Сједињене Америчке Државе",
+          "common": "Сједињене Америчке Државе"
+        },
+        "swe": {
+          "official": "Amerikas förenta stater",
+          "common": "USA"
+        },
+        "tur": {
+          "official": "Amerika Birleşik Devletleri",
+          "common": "Amerika Birleşik Devletleri"
+        },
+        "urd": {
+          "official": "ریاستہائے متحدہ امریکا",
+          "common": "ریاستہائے متحدہ"
+        },
+        "zho": {
+          "official": "美利坚合众国",
+          "common": "美国"
+        }
+      },
+      "latlng": [
+        38,
+        -97
+      ],
+      "landlocked": false,
+      "borders": [
+        "CAN",
+        "MEX"
+      ],
+      "area": 9372610,
+      "demonyms": {
+        "eng": {
+          "f": "American",
+          "m": "American"
+        },
+        "fra": {
+          "f": "Américaine",
+          "m": "Américain"
+        }
+      },
+      "flag": "🇺🇸",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/148838#map=2/20.6/-85.8"
+      },
+      "population": 329484123,
+      "gini": {
+        "2018": 41.4
+      },
+      "fifa": "USA",
+      "car": {
+        "signs": [
+          "USA"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC-12:00",
+        "UTC-11:00",
+        "UTC-10:00",
+        "UTC-09:00",
+        "UTC-08:00",
+        "UTC-07:00",
+        "UTC-06:00",
+        "UTC-05:00",
+        "UTC-04:00",
+        "UTC+10:00",
+        "UTC+12:00"
+      ],
+      "continents": [
+        "North America"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/us.png",
+        "svg": "https://flagcdn.com/us.svg",
+        "alt": "The flag of the United States of America is composed of thirteen equal horizontal bands of red alternating with white. A blue rectangle, bearing fifty small five-pointed white stars arranged in nine rows where rows of six stars alternate with rows of five stars, is superimposed in the canton."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/us.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/us.svg"
+      },
+      "startOfWeek": "sunday",
+      "capitalInfo": {
+        "latlng": [
+          38.89,
+          -77.05
+        ]
+      },
+      "postalCode": {
+        "format": "#####-####",
+        "regex": "^\\d{5}(-\\d{4})?$"
+      }
+    },
+    {
+      "name": {
+        "common": "Cook Islands",
+        "official": "Cook Islands",
+        "nativeName": {
+          "eng": {
+            "official": "Cook Islands",
+            "common": "Cook Islands"
+          },
+          "rar": {
+            "official": "Kūki 'Āirani",
+            "common": "Kūki 'Āirani"
+          }
+        }
+      },
+      "tld": [
+        ".ck"
+      ],
+      "cca2": "CK",
+      "ccn3": "184",
+      "cca3": "COK",
+      "cioc": "COK",
+      "independent": false,
+      "status": "officially-assigned",
+      "unMember": false,
+      "currencies": {
+        "CKD": {
+          "name": "Cook Islands dollar",
+          "symbol": "$"
+        },
+        "NZD": {
+          "name": "New Zealand dollar",
+          "symbol": "$"
+        }
+      },
+      "idd": {
+        "root": "+6",
+        "suffixes": [
+          "82"
+        ]
+      },
+      "capital": [
+        "Avarua"
+      ],
+      "altSpellings": [
+        "CK",
+        "Kūki 'Āirani"
+      ],
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "languages": {
+        "eng": "English",
+        "rar": "Cook Islands Māori"
+      },
+      "translations": {
+        "ara": {
+          "official": "جزر كوك",
+          "common": "جزر كوك"
+        },
+        "bre": {
+          "official": "Inizi Cook",
+          "common": "Inizi Cook"
+        },
+        "ces": {
+          "official": "Cookovy ostrovy",
+          "common": "Cookovy ostrovy"
+        },
+        "cym": {
+          "official": "Ynysoedd Cook",
+          "common": "Ynysoedd Cook"
+        },
+        "deu": {
+          "official": "Cookinseln",
+          "common": "Cookinseln"
+        },
+        "est": {
+          "official": "Cooki saared",
+          "common": "Cooki saared"
+        },
+        "fin": {
+          "official": "Cookinsaaret",
+          "common": "Cookinsaaret"
+        },
+        "fra": {
+          "official": "Îles Cook",
+          "common": "Îles Cook"
+        },
+        "hrv": {
+          "official": "Cook Islands",
+          "common": "Cookovo Otočje"
+        },
+        "hun": {
+          "official": "Cook-szigetek",
+          "common": "Cook-szigetek"
+        },
+        "ita": {
+          "official": "Isole Cook",
+          "common": "Isole Cook"
+        },
+        "jpn": {
+          "official": "クック諸島",
+          "common": "クック諸島"
+        },
+        "kor": {
+          "official": "쿡 제도",
+          "common": "쿡 제도"
+        },
+        "nld": {
+          "official": "Cook eilanden",
+          "common": "Cookeilanden"
+        },
+        "per": {
+          "official": "جزایر کوک",
+          "common": "جزایر کوک"
+        },
+        "pol": {
+          "official": "Wyspy Cooka",
+          "common": "Wyspy Cooka"
+        },
+        "por": {
+          "official": "Ilhas Cook",
+          "common": "Ilhas Cook"
+        },
+        "rus": {
+          "official": "острова Кука",
+          "common": "Острова Кука"
+        },
+        "slk": {
+          "official": "Cookove ostrovy",
+          "common": "Cookove ostrovy"
+        },
+        "spa": {
+          "official": "Islas Cook",
+          "common": "Islas Cook"
+        },
+        "srp": {
+          "official": "Кукова Острва",
+          "common": "Кукова Острва"
+        },
+        "swe": {
+          "official": "Cooköarna",
+          "common": "Cooköarna"
+        },
+        "tur": {
+          "official": "Cook Adaları",
+          "common": "Cook Adaları"
+        },
+        "urd": {
+          "official": "جزائر کک",
+          "common": "جزائر کک"
+        },
+        "zho": {
+          "official": "库克群岛",
+          "common": "库克群岛"
+        }
+      },
+      "latlng": [
+        -21.23333333,
+        -159.76666666
+      ],
+      "landlocked": false,
+      "area": 236,
+      "demonyms": {
+        "eng": {
+          "f": "Cook Islander",
+          "m": "Cook Islander"
+        },
+        "fra": {
+          "f": "Cookienne",
+          "m": "Cookien"
+        }
+      },
+      "flag": "🇨🇰",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/nrGZrvWRGB4WHgDC9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/2184233"
+      },
+      "population": 18100,
+      "fifa": "COK",
+      "car": {
+        "signs": [
+          "NZ"
+        ],
+        "side": "left"
+      },
+      "timezones": [
+        "UTC-10:00"
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/ck.png",
+        "svg": "https://flagcdn.com/ck.svg"
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ck.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ck.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          -21.2,
+          -159.77
+        ]
+      }
+    },
+    {
+      "name": {
+        "common": "Niue",
+        "official": "Niue",
+        "nativeName": {
+          "eng": {
+            "official": "Niue",
+            "common": "Niue"
+          },
+          "niu": {
+            "official": "Niuē",
+            "common": "Niuē"
+          }
+        }
+      },
+      "tld": [
+        ".nu"
+      ],
+      "cca2": "NU",
+      "ccn3": "570",
+      "cca3": "NIU",
+      "independent": false,
+      "status": "officially-assigned",
+      "unMember": false,
+      "currencies": {
+        "NZD": {
+          "name": "New Zealand dollar",
+          "symbol": "$"
+        }
+      },
+      "idd": {
+        "root": "+6",
+        "suffixes": [
+          "83"
+        ]
+      },
+      "capital": [
+        "Alofi"
+      ],
+      "altSpellings": [
+        "NU"
+      ],
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "languages": {
+        "eng": "English",
+        "niu": "Niuean"
+      },
+      "translations": {
+        "ara": {
+          "official": "نييوي",
+          "common": "نييوي"
+        },
+        "bre": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "ces": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "cym": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "deu": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "est": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "fin": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "fra": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "hrv": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "hun": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "ita": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "jpn": {
+          "official": "ニウエ",
+          "common": "ニウエ"
+        },
+        "kor": {
+          "official": "니우에",
+          "common": "니우에"
+        },
+        "nld": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "per": {
+          "official": "نیووی",
+          "common": "نیووی"
+        },
+        "pol": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "por": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "rus": {
+          "official": "Ниуэ",
+          "common": "Ниуэ"
+        },
+        "slk": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "spa": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "srp": {
+          "official": "Нијуе",
+          "common": "Нијуе"
+        },
+        "swe": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "tur": {
+          "official": "Niue",
+          "common": "Niue"
+        },
+        "urd": {
+          "official": "نیووے",
+          "common": "نیووے"
+        },
+        "zho": {
+          "official": "纽埃",
+          "common": "纽埃"
+        }
+      },
+      "latlng": [
+        -19.03333333,
+        -169.86666666
+      ],
+      "landlocked": false,
+      "area": 260,
+      "demonyms": {
+        "eng": {
+          "f": "Niuean",
+          "m": "Niuean"
+        },
+        "fra": {
+          "f": "Niuéenne",
+          "m": "Niuéen"
+        }
+      },
+      "flag": "🇳🇺",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/xFgdzs3E55Rk1y8P9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/1558556"
+      },
+      "population": 1470,
+      "car": {
+        "signs": [
+          "NZ"
+        ],
+        "side": "left"
+      },
+      "timezones": [
+        "UTC-11:00"
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/nu.png",
+        "svg": "https://flagcdn.com/nu.svg"
+      },
+      "coatOfArms": {},
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          -19.02,
+          -169.92
+        ]
+      }
+    },
+    {
+      "name": {
+        "common": "Seychelles",
+        "official": "Republic of Seychelles",
+        "nativeName": {
+          "crs": {
+            "official": "Repiblik Sesel",
+            "common": "Sesel"
+          },
+          "eng": {
+            "official": "Republic of Seychelles",
+            "common": "Seychelles"
+          },
+          "fra": {
+            "official": "République des Seychelles",
+            "common": "Seychelles"
+          }
+        }
+      },
+      "tld": [
+        ".sc"
+      ],
+      "cca2": "SC",
+      "ccn3": "690",
+      "cca3": "SYC",
+      "cioc": "SEY",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "SCR": {
+          "name": "Seychellois rupee",
+          "symbol": "₨"
+        }
+      },
+      "idd": {
+        "root": "+2",
+        "suffixes": [
+          "48"
+        ]
+      },
+      "capital": [
+        "Victoria"
+      ],
+      "altSpellings": [
+        "SC",
+        "Republic of Seychelles",
+        "Repiblik Sesel",
+        "République des Seychelles"
+      ],
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "languages": {
+        "crs": "Seychellois Creole",
+        "eng": "English",
+        "fra": "French"
+      },
+      "translations": {
+        "ara": {
+          "official": "جمهورية سيشل",
+          "common": "سيشل"
+        },
+        "bre": {
+          "official": "Republik Sechelez",
+          "common": "Sechelez"
+        },
+        "ces": {
+          "official": "Seychelská republika",
+          "common": "Seychely"
+        },
+        "cym": {
+          "official": "Republic of Seychelles",
+          "common": "Seychelles"
+        },
+        "deu": {
+          "official": "Republik der Seychellen",
+          "common": "Seychellen"
+        },
+        "est": {
+          "official": "Seišelli Vabariik",
+          "common": "Seišellid"
+        },
+        "fin": {
+          "official": "Seychellien tasavalta",
+          "common": "Seychellit"
+        },
+        "fra": {
+          "official": "République des Seychelles",
+          "common": "Seychelles"
+        },
+        "hrv": {
+          "official": "Republika Sejšeli",
+          "common": "Sejšeli"
+        },
+        "hun": {
+          "official": "Seychelle Köztársaság",
+          "common": "Seychelle-szigetek"
+        },
+        "ita": {
+          "official": "Repubblica delle Seychelles",
+          "common": "Seychelles"
+        },
+        "jpn": {
+          "official": "セイシェル共和国",
+          "common": "セーシェル"
+        },
+        "kor": {
+          "official": "세이셸 공화국",
+          "common": "세이셸"
+        },
+        "nld": {
+          "official": "Republiek der Seychellen",
+          "common": "Seychellen"
+        },
+        "per": {
+          "official": "جمهوری سیشل",
+          "common": "سیشل"
+        },
+        "pol": {
+          "official": "Republika Seszeli",
+          "common": "Seszele"
+        },
+        "por": {
+          "official": "República das Seychelles",
+          "common": "Seicheles"
+        },
+        "rus": {
+          "official": "Республика Сейшельские Острова",
+          "common": "Сейшельские Острова"
+        },
+        "slk": {
+          "official": "Seychelská republika",
+          "common": "Seychely"
+        },
+        "spa": {
+          "official": "República de las Seychelles",
+          "common": "Seychelles"
+        },
+        "srp": {
+          "official": "Република Сејшели",
+          "common": "Сејшели"
+        },
+        "swe": {
+          "official": "Republiken Seychellerna",
+          "common": "Seychellerna"
+        },
+        "tur": {
+          "official": "Seyşeller Cumhuriyeti",
+          "common": "Seyşeller"
+        },
+        "urd": {
+          "official": "جمہوریہ سیچیلیس",
+          "common": "سیچیلیس"
+        },
+        "zho": {
+          "official": "塞舌尔共和国",
+          "common": "塞舌尔"
+        }
+      },
+      "latlng": [
+        -4.58333333,
+        55.66666666
+      ],
+      "landlocked": false,
+      "area": 452,
+      "demonyms": {
+        "eng": {
+          "f": "Seychellois",
+          "m": "Seychellois"
+        },
+        "fra": {
+          "f": "Seychelloise",
+          "m": "Seychellois"
+        }
+      },
+      "flag": "🇸🇨",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/536765"
+      },
+      "population": 98462,
+      "gini": {
+        "2018": 32.1
+      },
+      "fifa": "SEY",
+      "car": {
+        "signs": [
+          "SY"
+        ],
+        "side": "left"
+      },
+      "timezones": [
+        "UTC+04:00"
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/sc.png",
+        "svg": "https://flagcdn.com/sc.svg",
+        "alt": "The flag of Seychelles is composed of five broadening oblique bands of blue, yellow, red, white and green, which extend from the hoist side of the bottom edge to the top and fly edges of the field."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/sc.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/sc.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          -4.62,
+          55.45
+        ]
+      }
+    },
+    {
+      "name": {
+        "common": "Central African Republic",
+        "official": "Central African Republic",
+        "nativeName": {
+          "fra": {
+            "official": "République centrafricaine",
+            "common": "République centrafricaine"
+          },
+          "sag": {
+            "official": "Ködörösêse tî Bêafrîka",
+            "common": "Bêafrîka"
+          }
+        }
+      },
+      "tld": [
+        ".cf"
+      ],
+      "cca2": "CF",
+      "ccn3": "140",
+      "cca3": "CAF",
+      "cioc": "CAF",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "XAF": {
+          "name": "Central African CFA franc",
+          "symbol": "Fr"
+        }
+      },
+      "idd": {
+        "root": "+2",
+        "suffixes": [
+          "36"
+        ]
+      },
+      "capital": [
+        "Bangui"
+      ],
+      "altSpellings": [
+        "CF",
+        "Central African Republic",
+        "République centrafricaine"
+      ],
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "languages": {
+        "fra": "French",
+        "sag": "Sango"
+      },
+      "translations": {
+        "ara": {
+          "official": "جمهورية أفريقيا الوسطى",
+          "common": "جمهورية أفريقيا الوسطى"
+        },
+        "bre": {
+          "official": "Republik Kreizafrikan",
+          "common": "Republik Kreizafrikan"
+        },
+        "ces": {
+          "official": "Středoafrická republika",
+          "common": "Středoafrická republika"
+        },
+        "cym": {
+          "official": "Gweriniaeth Canolbarth Affrica",
+          "common": "Gweriniaeth Canolbarth Affrica"
+        },
+        "deu": {
+          "official": "Zentralafrikanische Republik",
+          "common": "Zentralafrikanische Republik"
+        },
+        "est": {
+          "official": "Kesk-Aafrika Vabariik",
+          "common": "Kesk-Aafrika Vabariik"
+        },
+        "fin": {
+          "official": "Keski-Afrikan tasavalta",
+          "common": "Keski-Afrikan tasavalta"
+        },
+        "fra": {
+          "official": "République centrafricaine",
+          "common": "République centrafricaine"
+        },
+        "hrv": {
+          "official": "Centralna Afrička Republika",
+          "common": "Srednjoafrička Republika"
+        },
+        "hun": {
+          "official": "Közép-afrikai Köztársaság",
+          "common": "Közép-afrikai Köztársaság"
+        },
+        "ita": {
+          "official": "Repubblica Centrafricana",
+          "common": "Repubblica Centrafricana"
+        },
+        "jpn": {
+          "official": "中央アフリカ共和国",
+          "common": "中央アフリカ共和国"
+        },
+        "kor": {
+          "official": "중앙아프리카 공화국",
+          "common": "중앙아프리카 공화국"
+        },
+        "nld": {
+          "official": "Centraal-Afrikaanse Republiek",
+          "common": "Centraal-Afrikaanse Republiek"
+        },
+        "per": {
+          "official": "جمهوری آفریقای مرکزی",
+          "common": "جمهوری آفریقای مرکزی"
+        },
+        "pol": {
+          "official": "Republika Środkowoafrykańska",
+          "common": "Republika Środkowoafrykańska"
+        },
+        "por": {
+          "official": "República Centro-Africano",
+          "common": "República Centro-Africana"
+        },
+        "rus": {
+          "official": "Центрально-Африканская Республика",
+          "common": "Центральноафриканская Республика"
+        },
+        "slk": {
+          "official": "Stredoafrická republika",
+          "common": "Stredoafrická republika"
+        },
+        "spa": {
+          "official": "República Centroafricana",
+          "common": "República Centroafricana"
+        },
+        "srp": {
+          "official": "Централноафричка Република",
+          "common": "Централноафричка Република"
+        },
+        "swe": {
+          "official": "Centralafrikanska republiken",
+          "common": "Centralafrikanska republiken"
+        },
+        "tur": {
+          "official": "Orta Afrika Cumhuriyeti",
+          "common": "Orta Afrika Cumhuriyeti"
+        },
+        "urd": {
+          "official": "وسطی افریقی جمہوریہ",
+          "common": "وسطی افریقی جمہوریہ"
+        },
+        "zho": {
+          "official": "中非共和国",
+          "common": "中非共和国"
+        }
+      },
+      "latlng": [
+        7,
+        21
+      ],
+      "landlocked": true,
+      "borders": [
+        "CMR",
+        "TCD",
+        "COD",
+        "COG",
+        "SSD",
+        "SDN"
+      ],
+      "area": 622984,
+      "demonyms": {
+        "eng": {
+          "f": "Central African",
+          "m": "Central African"
+        },
+        "fra": {
+          "f": "Centrafricaine",
+          "m": "Centrafricain"
+        }
+      },
+      "flag": "🇨🇫",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/51V8dsi2rGYC9n3c9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/192790"
+      },
+      "population": 4829764,
+      "gini": {
+        "2008": 56.2
+      },
+      "fifa": "CTA",
+      "car": {
+        "signs": [
+          "RCA"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/cf.png",
+        "svg": "https://flagcdn.com/cf.svg",
+        "alt": "The flag of Central African Republic is composed of four equal horizontal bands of blue, white, green and yellow intersected at the center by a vertical red band of equal size as the horizontal bands. A yellow five-pointed star is situated on the hoist side of the blue band."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/cf.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/cf.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          4.37,
+          18.58
+        ]
+      }
+    },
+    {
+      "name": {
+        "common": "Tokelau",
+        "official": "Tokelau",
+        "nativeName": {
+          "eng": {
+            "official": "Tokelau",
+            "common": "Tokelau"
+          },
+          "smo": {
+            "official": "Tokelau",
+            "common": "Tokelau"
+          },
+          "tkl": {
+            "official": "Tokelau",
+            "common": "Tokelau"
+          }
+        }
+      },
+      "tld": [
+        ".tk"
+      ],
+      "cca2": "TK",
+      "ccn3": "772",
+      "cca3": "TKL",
+      "independent": false,
+      "status": "officially-assigned",
+      "unMember": false,
+      "currencies": {
+        "NZD": {
+          "name": "New Zealand dollar",
+          "symbol": "$"
+        }
+      },
+      "idd": {
+        "root": "+6",
+        "suffixes": [
+          "90"
+        ]
+      },
+      "capital": [
+        "Fakaofo"
+      ],
+      "altSpellings": [
+        "TK"
+      ],
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "languages": {
+        "eng": "English",
+        "smo": "Samoan",
+        "tkl": "Tokelauan"
+      },
+      "translations": {
+        "ara": {
+          "official": "توكيلاو",
+          "common": "توكيلاو"
+        },
+        "bre": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "ces": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "cym": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "deu": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "est": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "fin": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "fra": {
+          "official": "Îles Tokelau",
+          "common": "Tokelau"
+        },
+        "hrv": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "hun": {
+          "official": "Tokelau-szigetek",
+          "common": "Tokelau-szigetek"
+        },
+        "ita": {
+          "official": "Tokelau",
+          "common": "Isole Tokelau"
+        },
+        "jpn": {
+          "official": "トケラウ諸島",
+          "common": "トケラウ"
+        },
+        "kor": {
+          "official": "토켈라우",
+          "common": "토켈라우"
+        },
+        "nld": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "per": {
+          "official": "توکلائو",
+          "common": "توکلائو"
+        },
+        "pol": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "por": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "rus": {
+          "official": "Токелау",
+          "common": "Токелау"
+        },
+        "slk": {
+          "official": "Tokelauské ostrovy",
+          "common": "Tokelau"
+        },
+        "spa": {
+          "official": "Tokelau",
+          "common": "Islas Tokelau"
+        },
+        "srp": {
+          "official": "Токелау",
+          "common": "Токелау"
+        },
+        "swe": {
+          "official": "Tokelauöarna",
+          "common": "Tokelauöarna"
+        },
+        "tur": {
+          "official": "Tokelau",
+          "common": "Tokelau"
+        },
+        "urd": {
+          "official": "ٹوکیلاؤ",
+          "common": "ٹوکیلاؤ"
+        },
+        "zho": {
+          "official": "托克劳",
+          "common": "托克劳"
+        }
+      },
+      "latlng": [
+        -9,
+        -172
+      ],
+      "landlocked": false,
+      "area": 12,
+      "demonyms": {
+        "eng": {
+          "f": "Tokelauan",
+          "m": "Tokelauan"
+        }
+      },
+      "flag": "🇹🇰",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/Ap5qN8qien6pT9UN6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/2186600"
+      },
+      "population": 1411,
+      "car": {
+        "signs": [
+          ""
+        ],
+        "side": "left"
+      },
+      "timezones": [
+        "UTC+13:00"
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/tk.png",
+        "svg": "https://flagcdn.com/tk.svg"
+      },
+      "coatOfArms": {},
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          -9.38,
+          -171.22
+        ]
+      }
+    },
+    {
+      "name": {
+        "common": "Vanuatu",
+        "official": "Republic of Vanuatu",
+        "nativeName": {
+          "bis": {
+            "official": "Ripablik blong Vanuatu",
+            "common": "Vanuatu"
+          },
+          "eng": {
+            "official": "Republic of Vanuatu",
+            "common": "Vanuatu"
+          },
+          "fra": {
+            "official": "République de Vanuatu",
+            "common": "Vanuatu"
+          }
+        }
+      },
+      "tld": [
+        ".vu"
+      ],
+      "cca2": "VU",
+      "ccn3": "548",
+      "cca3": "VUT",
+      "cioc": "VAN",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "VUV": {
+          "name": "Vanuatu vatu",
+          "symbol": "Vt"
+        }
+      },
+      "idd": {
+        "root": "+6",
+        "suffixes": [
+          "78"
+        ]
+      },
+      "capital": [
+        "Port Vila"
+      ],
+      "altSpellings": [
+        "VU",
+        "Republic of Vanuatu",
+        "Ripablik blong Vanuatu",
+        "République de Vanuatu"
+      ],
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "languages": {
+        "bis": "Bislama",
+        "eng": "English",
+        "fra": "French"
+      },
+      "translations": {
+        "ara": {
+          "official": "جمهورية فانواتو",
+          "common": "فانواتو"
+        },
+        "bre": {
+          "official": "Republik Vanuatu",
+          "common": "Vanuatu"
+        },
+        "ces": {
+          "official": "Republika Vanuatu",
+          "common": "Vanuatu"
+        },
+        "cym": {
+          "official": "Republic of Vanuatu",
+          "common": "Vanuatu"
+        },
+        "deu": {
+          "official": "Vanuatu",
+          "common": "Vanuatu"
+        },
+        "est": {
+          "official": "Vanuatu Vabariik",
+          "common": "Vanuatu"
+        },
+        "fin": {
+          "official": "Vanuatun tasavalta",
+          "common": "Vanuatu"
+        },
+        "fra": {
+          "official": "République de Vanuatu",
+          "common": "Vanuatu"
+        },
+        "hrv": {
+          "official": "Republika Vanuatu",
+          "common": "Vanuatu"
+        },
+        "hun": {
+          "official": "Vanuatui Köztársaság",
+          "common": "Vanuatu"
+        },
+        "ita": {
+          "official": "Repubblica di Vanuatu",
+          "common": "Vanuatu"
+        },
+        "jpn": {
+          "official": "バヌアツ共和国",
+          "common": "バヌアツ"
+        },
+        "kor": {
+          "official": "바누아투 공화국",
+          "common": "바누아투"
+        },
+        "nld": {
+          "official": "Republiek Vanuatu",
+          "common": "Vanuatu"
+        },
+        "per": {
+          "official": "جمهوری وانواتو",
+          "common": "وانواتو"
+        },
+        "pol": {
+          "official": "Republika Vanuatu",
+          "common": "Vanuatu"
+        },
+        "por": {
+          "official": "República de Vanuatu",
+          "common": "Vanuatu"
+        },
+        "rus": {
+          "official": "Республика Вануату",
+          "common": "Вануату"
+        },
+        "slk": {
+          "official": "Vanuatská republika",
+          "common": "Vanuatu"
+        },
+        "spa": {
+          "official": "República de Vanuatu",
+          "common": "Vanuatu"
+        },
+        "srp": {
+          "official": "Република Вануату",
+          "common": "Вануату"
+        },
+        "swe": {
+          "official": "Republiken Vanuatu",
+          "common": "Vanuatu"
+        },
+        "tur": {
+          "official": "Vanuatu Cumhuriyeti",
+          "common": "Vanuatu"
+        },
+        "urd": {
+          "official": "جمہوریہ وانواتو",
+          "common": "وانواتو"
+        },
+        "zho": {
+          "official": "瓦努阿图共和国",
+          "common": "瓦努阿图"
+        }
+      },
+      "latlng": [
+        -16,
+        167
+      ],
+      "landlocked": false,
+      "area": 12189,
+      "demonyms": {
+        "eng": {
+          "f": "Ni-Vanuatu",
+          "m": "Ni-Vanuatu"
+        },
+        "fra": {
+          "f": "Vanuatuane",
+          "m": "Vanuatuan"
+        }
+      },
+      "flag": "🇻🇺",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/2177246"
+      },
+      "population": 307150,
+      "gini": {
+        "2010": 37.6
+      },
+      "fifa": "VAN",
+      "car": {
+        "signs": [
+          "VU"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC+11:00"
+      ],
+      "continents": [
+        "Oceania"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/vu.png",
+        "svg": "https://flagcdn.com/vu.svg",
+        "alt": "The flag of Vanuatu is composed of two equal horizontal bands of red and green, with a black isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and is enclosed on its sides by the arms of a thin black-edged yellow horizontally oriented Y-shaped band which extends along the boundary of the red and green bands to the fly end of the field. A yellow boar's tusk encircling two yellow crossed namele leaves is centered in the triangle."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/vu.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/vu.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          -17.73,
+          168.32
+        ]
+      }
+    },
+    {
+      "name": {
+        "common": "Gambia",
+        "official": "Republic of the Gambia",
+        "nativeName": {
+          "eng": {
+            "official": "Republic of the Gambia",
+            "common": "Gambia"
+          }
+        }
+      },
+      "tld": [
+        ".gm"
+      ],
+      "cca2": "GM",
+      "ccn3": "270",
+      "cca3": "GMB",
+      "cioc": "GAM",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "GMD": {
+          "name": "dalasi",
+          "symbol": "D"
+        }
+      },
+      "idd": {
+        "root": "+2",
+        "suffixes": [
+          "20"
+        ]
+      },
+      "capital": [
+        "Banjul"
+      ],
+      "altSpellings": [
+        "GM",
+        "Republic of the Gambia"
+      ],
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "languages": {
+        "eng": "English"
+      },
+      "translations": {
+        "ara": {
+          "official": "جمهورية غامبيا",
+          "common": "غامبيا"
+        },
+        "bre": {
+          "official": "Republik islamek ar Gambia",
+          "common": "Gambia"
+        },
+        "ces": {
+          "official": "Gambijská republika",
+          "common": "Gambie"
+        },
+        "cym": {
+          "official": "Republic of the Gambia",
+          "common": "Gambia"
+        },
+        "deu": {
+          "official": "Republik Gambia",
+          "common": "Gambia"
+        },
+        "est": {
+          "official": "Gambia Vabariik",
+          "common": "Gambia"
+        },
+        "fin": {
+          "official": "Gambian tasavalta",
+          "common": "Gambia"
+        },
+        "fra": {
+          "official": "République de Gambie",
+          "common": "Gambie"
+        },
+        "hrv": {
+          "official": "Republika Gambija",
+          "common": "Gambija"
+        },
+        "hun": {
+          "official": "Gambiai Köztársaság",
+          "common": "Gambia"
+        },
+        "ita": {
+          "official": "Repubblica del Gambia",
+          "common": "Gambia"
+        },
+        "jpn": {
+          "official": "ガンビア共和国",
+          "common": "ガンビア"
+        },
+        "kor": {
+          "official": "감비아 공화국",
+          "common": "감비아"
+        },
+        "nld": {
+          "official": "Republiek Gambia",
+          "common": "Gambia"
+        },
+        "per": {
+          "official": "جمهوری گامبیا",
+          "common": "گامبیا"
+        },
+        "pol": {
+          "official": "Republika Gambii",
+          "common": "Gambia"
+        },
+        "por": {
+          "official": "República da Gâmbia",
+          "common": "Gâmbia"
+        },
+        "rus": {
+          "official": "Республика Гамбия",
+          "common": "Гамбия"
+        },
+        "slk": {
+          "official": "Gambijská republika",
+          "common": "Gambia"
+        },
+        "spa": {
+          "official": "República de Gambia",
+          "common": "Gambia"
+        },
+        "srp": {
+          "official": "Република Гамбија",
+          "common": "Гамбија"
+        },
+        "swe": {
+          "official": "Republiken Gambia",
+          "common": "Gambia"
+        },
+        "tur": {
+          "official": "Gambiya Cumhuriyeti",
+          "common": "Gambiya"
+        },
+        "urd": {
+          "official": "جمہوریہ گیمبیا",
+          "common": "گیمبیا"
+        },
+        "zho": {
+          "official": "冈比亚共和国",
+          "common": "冈比亚"
+        }
+      },
+      "latlng": [
+        13.46666666,
+        -16.56666666
+      ],
+      "landlocked": false,
+      "borders": [
+        "SEN"
+      ],
+      "area": 10689,
+      "demonyms": {
+        "eng": {
+          "f": "Gambian",
+          "m": "Gambian"
+        },
+        "fra": {
+          "f": "Gambienne",
+          "m": "Gambien"
+        }
+      },
+      "flag": "🇬🇲",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/192774"
+      },
+      "population": 2416664,
+      "gini": {
+        "2015": 35.9
+      },
+      "fifa": "GAM",
+      "car": {
+        "signs": [
+          "WAG"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC+00:00"
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/gm.png",
+        "svg": "https://flagcdn.com/gm.svg",
+        "alt": "The flag of Gambia is composed of three equal horizontal bands of red, blue with white top and bottom edges, and green."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/gm.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/gm.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          13.45,
+          -16.57
+        ]
+      }
+    },
+    {
+      "name": {
+        "common": "Guyana",
+        "official": "Co-operative Republic of Guyana",
+        "nativeName": {
+          "eng": {
+            "official": "Co-operative Republic of Guyana",
+            "common": "Guyana"
+          }
+        }
+      },
+      "tld": [
+        ".gy"
+      ],
+      "cca2": "GY",
+      "ccn3": "328",
+      "cca3": "GUY",
+      "cioc": "GUY",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "GYD": {
+          "name": "Guyanese dollar",
+          "symbol": "$"
+        }
+      },
+      "idd": {
+        "root": "+5",
+        "suffixes": [
+          "92"
+        ]
+      },
+      "capital": [
+        "Georgetown"
+      ],
+      "altSpellings": [
+        "GY",
+        "Co-operative Republic of Guyana"
+      ],
+      "region": "Americas",
+      "subregion": "South America",
+      "languages": {
+        "eng": "English"
+      },
+      "translations": {
+        "ara": {
+          "official": "جمهورية غيانا التعاونية",
+          "common": "غيانا"
+        },
+        "bre": {
+          "official": "Republik Kevelourel Gwiana",
+          "common": "Guyana"
+        },
+        "ces": {
+          "official": "Kooperativní republika Guyana",
+          "common": "Guyana"
+        },
+        "cym": {
+          "official": "Co-operative Republic of Guyana",
+          "common": "Guyana"
+        },
+        "deu": {
+          "official": "Kooperative Republik Guyana",
+          "common": "Guyana"
+        },
+        "est": {
+          "official": "Guyana Vabariik",
+          "common": "Guyana"
+        },
+        "fin": {
+          "official": "Guayanan osuustoiminnallinen tasavalta",
+          "common": "Guayana"
+        },
+        "fra": {
+          "official": "République coopérative de Guyana",
+          "common": "Guyana"
+        },
+        "hrv": {
+          "official": "Zadruga Republika Gvajana",
+          "common": "Gvajana"
+        },
+        "hun": {
+          "official": "Guyanai Szövetkezeti Köztársaság",
+          "common": "Guyana"
+        },
+        "ita": {
+          "official": "Co -operative Republic of Guyana",
+          "common": "Guyana"
+        },
+        "jpn": {
+          "official": "ガイアナの協同共和国",
+          "common": "ガイアナ"
+        },
+        "kor": {
+          "official": "가이아나 협동 공화국",
+          "common": "가이아나"
+        },
+        "nld": {
+          "official": "Coöperatieve Republiek Guyana",
+          "common": "Guyana"
+        },
+        "per": {
+          "official": "جمهوری تعاونی گویان",
+          "common": "گویان"
+        },
+        "pol": {
+          "official": "Kooperacyjna Republika Gujany",
+          "common": "Gujana"
+        },
+        "por": {
+          "official": "Co -operative República da Guiana",
+          "common": "Guiana"
+        },
+        "rus": {
+          "official": "Кооперативная Республика Гайана",
+          "common": "Гайана"
+        },
+        "slk": {
+          "official": "Guyanská kooperatívna republika",
+          "common": "Guyana"
+        },
+        "spa": {
+          "official": "República Cooperativa de Guyana",
+          "common": "Guyana"
+        },
+        "srp": {
+          "official": "Кооперативна Република Гвајана",
+          "common": "Гвајана"
+        },
+        "swe": {
+          "official": "Kooperativa republiken Guyana",
+          "common": "Guyana"
+        },
+        "tur": {
+          "official": "Guyana Kooperatif Cumhuriyeti",
+          "common": "Guyana"
+        },
+        "urd": {
+          "official": "تعاونی جمہوریہ گیانا",
+          "common": "گیانا"
+        },
+        "zho": {
+          "official": "圭亚那共和国",
+          "common": "圭亚那"
+        }
+      },
+      "latlng": [
+        5,
+        -59
+      ],
+      "landlocked": false,
+      "borders": [
+        "BRA",
+        "SUR",
+        "VEN"
+      ],
+      "area": 214969,
+      "demonyms": {
+        "eng": {
+          "f": "Guyanese",
+          "m": "Guyanese"
+        },
+        "fra": {
+          "f": "Guyanienne",
+          "m": "Guyanien"
+        }
+      },
+      "flag": "🇬🇾",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/DFsme2xEeugUAsCx5",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/287083"
+      },
+      "population": 786559,
+      "gini": {
+        "1998": 45.1
+      },
+      "fifa": "GUY",
+      "car": {
+        "signs": [
+          "GUY"
+        ],
+        "side": "left"
+      },
+      "timezones": [
+        "UTC-04:00"
+      ],
+      "continents": [
+        "South America"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/gy.png",
+        "svg": "https://flagcdn.com/gy.svg",
+        "alt": "The flag of Guyana has a green field with two isosceles triangles which share a common base on the hoist end. The smaller black-edged red triangle spanning half the width of the field is superimposed on the larger white-edged yellow triangle which spans the full width of the field."
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/gy.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/gy.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          6.8,
+          -58.15
+        ]
+      }
+    },
+    {
+      "name": {
+        "common": "Falkland Islands",
+        "official": "Falkland Islands",
+        "nativeName": {
+          "eng": {
+            "official": "Falkland Islands",
+            "common": "Falkland Islands"
+          }
+        }
+      },
+      "tld": [
+        ".fk"
+      ],
+      "cca2": "FK",
+      "ccn3": "238",
+      "cca3": "FLK",
+      "independent": false,
+      "status": "officially-assigned",
+      "unMember": false,
+      "currencies": {
+        "FKP": {
+          "name": "Falkland Islands pound",
+          "symbol": "£"
+        }
+      },
+      "idd": {
+        "root": "+5",
+        "suffixes": [
+          "00"
+        ]
+      },
+      "capital": [
+        "Stanley"
+      ],
+      "altSpellings": [
+        "FK",
+        "Islas Malvinas",
+        "Falkland Islands (Malvinas)"
+      ],
+      "region": "Americas",
+      "subregion": "South America",
+      "languages": {
+        "eng": "English"
+      },
+      "translations": {
+        "ara": {
+          "official": "جزر فوكلاند",
+          "common": "جزر فوكلاند"
+        },
+        "bre": {
+          "official": "Inizi Maloù",
+          "common": "Inizi Maloù"
+        },
+        "ces": {
+          "official": "Falklandské ostrovy",
+          "common": "Falklandy"
+        },
+        "cym": {
+          "official": "Falkland Islands",
+          "common": "Falkland Islands"
+        },
+        "deu": {
+          "official": "Falklandinseln",
+          "common": "Falklandinseln"
+        },
+        "est": {
+          "official": "Falklandi saared",
+          "common": "Falklandi saared"
+        },
+        "fin": {
+          "official": "Falkandinsaaret",
+          "common": "Falkandinsaaret"
+        },
+        "fra": {
+          "official": "Îles Malouines",
+          "common": "Îles Malouines"
+        },
+        "hrv": {
+          "official": "Falklandski otoci",
+          "common": "Falklandski Otoci"
+        },
+        "hun": {
+          "official": "Falkland-szigetek",
+          "common": "Falkland-szigetek"
+        },
+        "ita": {
+          "official": "Isole Falkland",
+          "common": "Isole Falkland o Isole Malvine"
+        },
+        "jpn": {
+          "official": "フォークランド",
+          "common": "フォークランド（マルビナス）諸島"
+        },
+        "kor": {
+          "official": "포클랜드 제도",
+          "common": "포클랜드 제도"
+        },
+        "nld": {
+          "official": "Falkland eilanden",
+          "common": "Falklandeilanden"
+        },
+        "per": {
+          "official": "جزایر فالکلند",
+          "common": "جزایر فالکلند"
+        },
+        "pol": {
+          "official": "Falklandy",
+          "common": "Falklandy"
+        },
+        "por": {
+          "official": "Ilhas Malvinas",
+          "common": "Ilhas Malvinas"
+        },
+        "rus": {
+          "official": "Фолклендские острова",
+          "common": "Фолклендские острова"
+        },
+        "slk": {
+          "official": "Falklandské ostrovy",
+          "common": "Falklandy"
+        },
+        "spa": {
+          "official": "islas Malvinas",
+          "common": "Islas Malvinas"
+        },
+        "srp": {
+          "official": "Фолкландска Острва",
+          "common": "Фолкланди"
+        },
+        "swe": {
+          "official": "Falklandsöarna",
+          "common": "Falklandsöarna"
+        },
+        "tur": {
+          "official": "Falkland (Malvina) Adaları",
+          "common": "Falkland (Malvina) Adaları"
+        },
+        "urd": {
+          "official": "جزائر فاکلینڈ",
+          "common": "جزائر فاکلینڈ"
+        },
+        "zho": {
+          "official": "福克兰群岛",
+          "common": "福克兰群岛"
+        }
+      },
+      "latlng": [
+        -51.75,
+        -59
+      ],
+      "landlocked": false,
+      "area": 12173,
+      "demonyms": {
+        "eng": {
+          "f": "Falkland Islander",
+          "m": "Falkland Islander"
+        },
+        "fra": {
+          "f": "Malouinne",
+          "m": "Malouin"
+        }
+      },
+      "flag": "🇫🇰",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/TZH1x7AGanQKifNk7",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/2185374"
+      },
+      "population": 2563,
+      "car": {
+        "signs": [
+          "GB"
+        ],
+        "side": "left"
+      },
+      "timezones": [
+        "UTC-04:00"
+      ],
+      "continents": [
+        "South America"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/fk.png",
+        "svg": "https://flagcdn.com/fk.svg"
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/fk.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/fk.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          -51.7,
+          -57.85
+        ]
+      }
+    }
+  ]
+}
