@@ -5,7 +5,7 @@ import SingleCountryView from "./components/SingleCountryView/SingleCountryView"
 
 function App() {
   return (
-    <main className="mx-auto max-w-7xl px-4 lg:px-0">
+    <main className="mx-auto max-w-7xl px-4 xl:px-0">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />

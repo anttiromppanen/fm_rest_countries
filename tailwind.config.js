@@ -22,6 +22,10 @@ export default {
         userDarkSecondaryBg: "hsl(210, 22%, 22%)",
         userDarkPrimaryText: "hsl(180, 100%, 100%)",
       },
+      backgroundImage: {
+        userInputArrowBgLight: "url('/chevronDownBlack.svg')",
+        userInputArrowBgDark: "url('/chevronDownWhite.svg')",
+      },
     },
   },
   plugins: [],

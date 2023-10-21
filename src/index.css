@@ -2,3 +2,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .user-shadow {
+    @apply shadow-md shadow-gray-200/60 dark:shadow-slate-800/60;
+  }
+}

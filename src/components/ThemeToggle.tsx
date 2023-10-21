@@ -32,13 +32,16 @@ function ThemeToggle() {
       type="button"
       onClick={toggleDarkMode}
       className="
-      flex items-center gap-x-2 bg-userLightSecondaryBg text-sm font-semibold 
-    dark:bg-userDarkSecondaryBg"
+      flex items-center gap-x-2 bg-userLightSecondaryBg text-sm font-semibold dark:bg-userDarkSecondaryBg 
+    md:text-base"
     >
       {darkMode ? (
-        <MoonSolid className="h-4 w-4" />
+        <MoonSolid data-testid="moon-solid" className="h-4 w-4 md:h-5 md:w-5" />
       ) : (
-        <MoonOutline className="h-4 w-4" />
+        <MoonOutline
+          data-testid="moon-outline"
+          className="h-4 w-4 md:h-5 md:w-5"
+        />
       )}
       <p>Dark Mode</p>
     </button>

@@ -1,35 +1,35 @@
 /* eslint-disable no-promise-executor-return */
 import axios from "axios";
 
-// MOCKED BASEURL
-const baseUrl = "http://localhost:3001/countries";
-
-// ACTUAL BASEURL
-// const baseUrl = "https://restcountries.com/v3.1";
+const baseUrl = "https://restcountries.com/v3.1";
 
 const getAllCountries = async () => {
-  await new Promise((resolve) => setTimeout(resolve, 500));
-
-  // MOCKED URL
-  const response = await axios.get(`${baseUrl}`);
-
-  // ACTUAL URL
-  // const response = await axios.get(`${baseUrl}/all`);
+  const response = await axios.get(`${baseUrl}/all`);
   return response.data;
 };
 
 const getCountry = async (name: string) => {
-  await new Promise((resolve) => setTimeout(resolve, 500));
-
-  // MOCKED URL
-  const response = await axios.get(`${baseUrl}`);
-  const findCountry = response.data.find(
-    (country) => country.name.common === name,
-  );
-
-  // ACTUAL URL
-  // const response = await axios.get(`${baseUrl}/name/${name}`);
-  return findCountry;
+  const response = await axios.get(`${baseUrl}/name/${name}?fullText=true`);
+  return response.data[0];
 };
 
-export { getAllCountries, getCountry };
+const getCountriesByFilter = async (filter: string) => {
+  const response = await axios.get(`${baseUrl}/name/${filter}`);
+  return response.data;
+};
+
+const getMultipleCountries = async (names: string[]) => {
+  if (names.length === 0) return Promise.resolve([]);
+
+  const response = await axios.get(
+    `${baseUrl}/alpha?codes=/${names.join(",")}`,
+  );
+  return response.data;
+};
+
+export {
+  getAllCountries,
+  getCountry,
+  getCountriesByFilter,
+  getMultipleCountries,
+};
