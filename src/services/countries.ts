@@ -21,9 +21,7 @@ const getCountriesByFilter = async (filter: string) => {
 const getMultipleCountries = async (names: string[]) => {
   if (names.length === 0) return Promise.resolve([]);
 
-  const response = await axios.get(
-    `${baseUrl}/alpha?codes=/${names.join(",")}`,
-  );
+  const response = await axios.get(`${baseUrl}/alpha?codes=${names.join(",")}`);
   return response.data;
 };
 

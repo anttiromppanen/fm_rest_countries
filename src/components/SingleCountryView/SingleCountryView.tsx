@@ -89,7 +89,7 @@ function SingleCountryView() {
             </div>
 
             <div className="flex flex-col gap-y-4 xl:flex-row xl:items-center xl:gap-x-6">
-              <span className="font-semibold">Border Countries: </span>
+              <span className="shrink-0 font-semibold">Border Countries: </span>
               <div className="flex flex-wrap gap-x-3 gap-y-3">
                 {borderCountriesMapped?.map((item: string) => (
                   <StyledButton key={item} linkTo={`/country/${item}`}>
