@@ -29,15 +29,15 @@ function AllCountries() {
       className="
       mt-28 text-homepageFontSize"
     >
-      <div className="flex flex-col justify-between md:flex-row">
+      <div className="flex flex-col justify-between md:mt-40 md:flex-row">
         <Searchbar filter={filter} setFilter={setFilter} />
         <select
           value={regionFilter}
           onChange={(e) => setRegionFilter(e.target.value)}
           className="
-          user-shadow bg-userInputArrowBgLight dark:bg-userInputArrowBgDark mt-10 w-full max-w-[200px] 
-          appearance-none rounded-lg bg-[length:14px_14px] bg-[center_right_1rem] bg-no-repeat px-6 py-4
-          dark:bg-userDarkSecondaryBg dark:text-userDarkPrimaryText md:mt-0"
+          user-shadow mt-10 w-full max-w-[200px] appearance-none rounded-lg 
+          bg-userInputArrowBgLight bg-[length:14px_14px] bg-[center_right_1rem] bg-no-repeat px-6 py-4 dark:bg-userDarkSecondaryBg
+          dark:bg-userInputArrowBgDark dark:text-userDarkPrimaryText md:mt-0"
         >
           <option value="">Filter by Region</option>
           <option value="Africa">Africa</option>
